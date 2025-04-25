@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+.pnpm-store/
+
+# Environment variables
+.env
+config.env
+
+# Generated images
+public/images/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo 
